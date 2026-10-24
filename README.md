@@ -21,10 +21,8 @@
 - 💊 **[RxGuard AI — AI-Powered Medication Safety](https://github.com/Sehlarazzak/RXGUARD)**  
 An AI-driven medication safety application designed to help users make more informed decisions about their medicines. The project focuses on medication verification, drug information, and improving awareness of potential medication-related risks. It includes a role-based system for patients, doctors, pharmacists, and administrators, with a PostgreSQL database for managing medication-related data. The project explores how AI and software engineering can support safer medication use through accessible information and a structured healthcare workflow.
 
-- 🛡️ **[Personal Safety App](https://github.com/Sehlarazzak/Personal_Safety_App)**  
-  A Flutter-based safety application featuring emergency contacts, safety check-ins, location status, and emergency assistance tools.
 
 ### 🌱 Currently Exploring
-AI-powered applications, NLP, semantic search, and backend development.
+AI-powered applications, NLP, semantic search, and backend development. Also enrolled in AI Engineering Bootcamp by AI Datayard
 
 **Always learning, building, and improving.** 🚀
